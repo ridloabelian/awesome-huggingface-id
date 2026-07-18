@@ -1,8 +1,6 @@
-# Awesome Hugging Face Indonesia
+# Awesome Hugging Face Indonesia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Kurasi model, dataset, library, kursus, dan deployment Hugging Face untuk developer Indonesia.
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/ridloabelian/awesome-huggingface-id?style=flat)](https://github.com/ridloabelian/awesome-huggingface-id/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/ridloabelian/awesome-huggingface-id)](https://github.com/ridloabelian/awesome-huggingface-id/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ridloabelian/awesome-huggingface-id/pulls)
