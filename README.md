@@ -34,6 +34,12 @@ Kurasi model, dataset, library, kursus, dan deployment Hugging Face untuk develo
 - [Text Generation Inference](https://github.com/huggingface/text-generation-inference) - Server production untuk inference model bahasa Hugging Face.
 - [Chat UI](https://github.com/huggingface/chat-ui) - Antarmuka chat open-source yang digunakan untuk HuggingChat.
 - [Optimum](https://github.com/huggingface/optimum) - Toolkit optimasi model untuk hardware dan inference runtimes tertentu.
+- [Sentence Transformers](https://github.com/huggingface/sentence-transformers) - Embedding, semantic search, retrieval, dan reranking untuk aplikasi RAG.
+- [Transformers.js](https://github.com/huggingface/transformers.js) - Menjalankan model Transformers langsung di browser tanpa backend inference khusus.
+- [Transformers.js Examples](https://github.com/huggingface/transformers.js-examples) - Contoh aplikasi web dan edge yang memakai Transformers.js.
+- [Text Embeddings Inference](https://github.com/huggingface/text-embeddings-inference) - Server inference berperforma tinggi untuk embedding dan reranking.
+- [AutoTrain Advanced](https://github.com/huggingface/autotrain-advanced) - Training dan fine-tuning model melalui konfigurasi low-code.
+- [SetFit](https://github.com/huggingface/setfit) - Few-shot text classification berbasis Sentence Transformers.
 
 ## Generative Media
 
@@ -56,12 +62,17 @@ Kurasi model, dataset, library, kursus, dan deployment Hugging Face untuk develo
 - [NLP Bahasa Resources](https://github.com/louisowen6/NLP_bahasa_resources) - Kurasi dataset dan library NLP Bahasa Indonesia.
 - [Awesome Indonesia NLP](https://github.com/irfnrdh/Awesome-Indonesia-NLP) - Direktori resource NLP dan Bahasa Indonesia.
 - [IndoBenchmark Toolkit](https://github.com/indobenchmark/indobenchmark-toolkit) - Toolkit untuk model dan benchmark IndoBenchmark.
+- [IndoBERT QA](https://github.com/rifkybujana/IndoBERT-QA) - Contoh IndoBERT yang di-fine-tune untuk question answering berbasis terjemahan SQuAD v2.
 
 ## Dataset Indonesia
 
 - [Indonesian Datasets](https://github.com/Wikidepia/indonesian_datasets) - Kumpulan dataset NLP Bahasa Indonesia.
 - [Indonesian NLP Resources](https://github.com/kirralabs/indonesian-NLP-resources) - Kumpulan resource data NLP Bahasa Indonesia.
 - [Dataset Sentimen Bahasa Indonesia](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia) - Kumpulan dataset analisis sentimen dengan referensi paper terkait.
+- [NusaCrowd](https://github.com/IndoNLP/nusa-crowd) - Koleksi kolaboratif dataset Bahasa Indonesia dan berbagai bahasa lokal Indonesia.
+- [NusaX](https://github.com/IndoNLP/nusax) - Dataset dan benchmark sentimen paralel untuk Bahasa Indonesia, Inggris, dan sepuluh bahasa lokal.
+- [NusaWrites](https://github.com/IndoNLP/nusa-writes) - Korpus serta benchmark language modeling untuk bahasa lokal minim sumber daya.
+- [ID NLP Resource](https://github.com/kmkurn/id-nlp-resource) - Kurasi dataset, korpus, tools, dan riset NLP Indonesia.
 
 > Periksa lisensi setiap dataset sebelum penggunaan komersial. Lisensi repository tidak selalu identik dengan lisensi tiap dataset.
 
